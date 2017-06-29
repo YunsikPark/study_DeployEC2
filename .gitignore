@@ -1,6 +1,7 @@
 ### Custom ###
 *.swp
 .idea/
+.config_secret/
 
 # Created by https://www.gitignore.io/api/vim,macos,django,python,pycharm
 
